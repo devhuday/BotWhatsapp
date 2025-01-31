@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "firebase-admin": "^13.0.2",
+    "firebase-functions": "^6.3.0",
+    "mongodb": "^6.12.0",
+    "node-fetch": "^3.3.2"
+  }
+}
