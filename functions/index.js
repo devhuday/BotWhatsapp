@@ -12,7 +12,7 @@ admin.initializeApp();
 // Middleware para parsear JSON
 app.use(express.json());
 
-//link: https://us-central1-jezplabotgreenglo.cloudfunctions.net/webhook/webhook
+//lnk: https://us-central1-jezplabotgreenglo.cloudfunctions.net/webhook/webhook
 
 // Ruta para verificación del webhook (GET)
 app.get("/webhook", (req, res) => {
